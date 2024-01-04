@@ -49,7 +49,3 @@ THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * Kaggle Dataset- https://www.kaggle.com/code/rikdifos/credit-card-approval-prediction-using-ml/
 * Kaggle notebook - https://www.kaggle.com/code/rikdifos/credit-card-approval-prediction-using-ml/notebook
 * AutoML Notebook- https://github.com/aiskunks/YouTube/blob/main/A_Crash_Course_in_Statistical_Learning/AutoML/CC_Kaggle_AutoML_Regression_Melbourne_Housing.ipynb
-
----
-
-Feel free to adapt it further based on your specific project details and requirements. If you have any more questions or need additional adjustments, you can contact me on raisinghani.muskan@gmail.com!
