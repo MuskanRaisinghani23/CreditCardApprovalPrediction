@@ -4,6 +4,13 @@
 
 The Credit Card Approval Prediction System is a comprehensive project that utilizes advanced techniques in regression modeling, AutoML (Automated Machine Learning), SHAP (SHapley Additive exPlanations) analysis, feature selection, and sophisticated data visualization methods. The primary goal is to enhance accuracy in predicting credit card approvals, offering a unique blend of modeling, automation, and interpretability.
 
+## Table of Contents
+
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [License](#license)
+- [References](#references)
+  
 ## Features
 
 - **Regression Models:** The system incorporates state-of-the-art regression models for credit card approval predictions, ensuring high accuracy and reliability.
@@ -16,7 +23,7 @@ The Credit Card Approval Prediction System is a comprehensive project that utili
 
 - **Data Visualization:** Advanced data visualization techniques are employed to present the results in an intuitive and understandable manner.
 
-## How to Use (Colab Notebook)
+## How to Use
 
 1. **Open the Colab Notebook:**
    - Navigate to the [Colab Notebook](https://github.com/MuskanRaisinghani23/CreditCardApprovalPrediction/blob/main/CreditCardApprovalPrediction.ipynb).
@@ -33,7 +40,7 @@ The Credit Card Approval Prediction System is a comprehensive project that utili
      !pip install package-name
      ```
 
-## LICENSE
+## License
 MIT License
 
 Copyright (c) [2023] [Muskan Raisinghani]
@@ -44,7 +51,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## REFERENCES
+## References
 * H20.ai- https://docs.h2o.ai/
 * Kaggle Dataset- https://www.kaggle.com/code/rikdifos/credit-card-approval-prediction-using-ml/
 * Kaggle notebook - https://www.kaggle.com/code/rikdifos/credit-card-approval-prediction-using-ml/notebook
